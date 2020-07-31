@@ -1,0 +1,25 @@
+_repo: Atolls-of-the-Sun_62697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Brien, Frederick
+    birthdate: 1869
+    deathdate: 1932
+    gutenberg_agent_id: '5627'
+    url: http://www.gutenberg.org/2009/agents/5627
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_O%27Brien
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Oceania -- Description and travel'
+- GITenberg
+title: Atolls of the Sun
+url: http://www.gutenberg.org/ebooks/62697
